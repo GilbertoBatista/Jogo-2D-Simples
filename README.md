@@ -4,12 +4,14 @@ Jogo em 2D simples com mecânicas de personagem, inimigos, armadilhas, câmera e
 
 Um jogo simples mas pronto para jogar, está pequeno mas é só aumentar o terreno como preferir ou criar novas fazes, utilize como desejar.
 
+### Unity 2021.3.25 (versão do Unity utilizado)
 
+ 
 ## Assets utilizados neste projeto
 
-As artes utilizadas no projeto não são de minha autoria, foram obtidas através de assets, todos os assets utilizados são gratuitos e estão disponiveis na Asset Store do Unity.
+As artes utilizadas não são de minha autoria, foram obtidas através de assets, todos os assets utilizados são gratuitos e estão disponiveis na Asset Store do Unity.
 
-Abaixo está os 2 assets utilizados neste projeto.
+Abaixo está os 2 assets utilizados.
 
 ### Pixel Adventure 1
 Link de acesso na Asset Store: https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
