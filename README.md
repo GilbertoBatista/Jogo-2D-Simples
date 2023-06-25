@@ -7,7 +7,7 @@ Um jogo simples mas pronto para jogar, está pequeno mas é só aumentar o terre
 
 ## Assets utilizados neste projeto
 
-A arte utilizada no projeto não é de minha autoria, contudo todos os assets são gratuitos e estão disponiveis na Asset Store do Unity.
+As artes utilizadas no projeto não são de minha autoria, foram obtidas através de assets, todos os assets utilizados são gratuitos e estão disponiveis na Asset Store do Unity.
 
 Abaixo está os 2 assets utilizados neste projeto.
 
